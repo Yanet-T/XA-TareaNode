@@ -1,0 +1,10 @@
+Hola, profe
+
+Intenté realizar el proyecto utilizando Sequelize, pero tuve muchos problemas al conectarlo con la base de datos. Por ejemplo me decia que los datos eran correctos, que el usuario y la contraseña no eran válidos, pero cuando lo hacia de esta froma no tenia problemas. Intenté ver videos en YouTube para ver cómo lo hacían otros, pero sentía que era muy diferente a lo que vimos en clases. Intenté de muchas formas, pero me aparecieron diferentes errores, por eso decidí hacerlo utilizando los mismos datos de forma individual y ponerlos en todos los "Models"  (después me di cuenta de que podría usar la carpeta "db" e importarla en las clases necesarias). Dejé comentados mis intentos de realizarlo con Sequelize. 
+
+Veré si puedo hacerlo de esta forma, revisando los videos, pero no tuve tiempo para arreglarlo.
+
+También hice las llamadas a través de las tablas de la base de datos como se hace en MySQL Workbench porque no entendía si se podrían hacer sin Sequelize.
+
+
+Además, me falta la autenticación, pero quiero re re-ver nuevamente la clase para entender bien cómo funciona.
